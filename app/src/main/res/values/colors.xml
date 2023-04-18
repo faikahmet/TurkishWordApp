@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="arkaPlan">#f9f0e4</color>
+    <color name="buton">#e5ded2</color>
+    <color name="harfKutusuDolu">#7c6a4d</color>
+    <color name="harfYazi">#968978</color>
+    <color name="harfKutusuBos">#f6ebdd</color>
+    <color name="beyazRenk">#fbf8f8</color>
+    <color name="blackcolor">#000000</color>
+</resources>
