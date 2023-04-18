@@ -3,7 +3,7 @@ Turkish Word App uses with Glide,Cardview,Swipecards and Sqlite.This application
 
 
 
-
+# Screenshots
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48482054/232646392-618f39cf-c74f-41b0-9973-6062d4cbce05.png" width = "300" height="600">
   </p>
